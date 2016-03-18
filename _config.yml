@@ -1,0 +1,28 @@
+name: TasteSafari
+favicon: null
+layout_spectrum: 0.5495705127250403
+typography_spectrum: 0.7530745463445783
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9495000105816871
+  lightness: 0.5733264721930027
+  saturation: 0.19343918841332197
+  rhythmicContrast: 0.8028452126309276
+purpose: []
