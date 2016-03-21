@@ -2,6 +2,7 @@ name: TasteSafari
 favicon: null
 layout_spectrum: 0.5495705127250403
 typography_spectrum: 0.7530745463445783
+title: Taste Safari
 cta:
   domain: null
   bucket: null
